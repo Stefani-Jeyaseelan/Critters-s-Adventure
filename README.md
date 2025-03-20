@@ -1,4 +1,4 @@
-Critters' Adventure
+**Critters' Adventure**
 
 🐾 Overview
 
